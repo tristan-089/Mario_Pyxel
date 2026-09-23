@@ -11,5 +11,3 @@ Jeu développé en équipe de 3 personnes dans le cadre de l'événement **"La n
 ## À propos
 
 Ce projet continuera d'être mis à jour et enrichi après l'événement.
-# Mario_Pyxel
-# Mario_Pyxel
